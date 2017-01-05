@@ -1,0 +1,10 @@
+Package: mabc
+Type: mabc
+Title: Maciel's Artificial Bee Colony heuristics algorithm
+Version: 0.1
+Date: 2017-01-05
+Author: Rui Maciel
+Maintainer: Rui Maciel <rui.maciel@gmail.com>
+Description: Implementation of the Artificial Bee Colony heuristics algorithm
+License: GPLv3
+Depends: methods
